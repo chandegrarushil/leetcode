@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/chandegrarushil/leetcode/tree/master/0016-3sum-closest) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/chandegrarushil/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/chandegrarushil/leetcode/tree/master/0016-3sum-closest) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/chandegrarushil/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
@@ -34,5 +36,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/chandegrarushil/leetcode/tree/master/0016-3sum-closest) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/chandegrarushil/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
